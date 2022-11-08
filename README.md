@@ -10,7 +10,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Delta-a-Sierra&theme=algolia" alt="Delta-a-Sierra" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dwayne-sutherland&theme=algolia" alt="Delta-a-Sierra" /></p>
 
 ## 🛠️ My Skills
 
