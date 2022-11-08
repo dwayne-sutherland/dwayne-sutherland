@@ -75,17 +75,17 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Delta-a-Sierra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Delta-a-Sierra&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Delta-a-Sierra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dwayne-sutherland&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Delta-a-Sierra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Delta-a-Sierra" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwayne-sutherland&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dwayne-sutherland" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Delta-a-Sierra"><img alt="Delta-a-Sierra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Delta-a-Sierra&custom_title=Delta-a-Sierra's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/dwayne-sutherland"><img alt="dwayne-sutherland's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dwayne-sutherland&custom_title=dwayne-sutherland's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
@@ -94,6 +94,6 @@
 
 <p align="center">
 	<a href="mailto:dwayneasutherland@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Delta-a-Sierra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/dwayne-sutherland"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/dwayne-sutherland-207a01157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
